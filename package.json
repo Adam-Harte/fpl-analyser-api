@@ -1,6 +1,7 @@
 {
   "name": "fpl-analyser-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "analyser api for fpl data",
   "main": "index.js",
   "scripts": {
